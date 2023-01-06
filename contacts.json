@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "63b87d16480b9cffa0b5156c"
+  },
+  "firstName": "John",
+  "lastName": "Smith",
+  "email": "jsmith@test.com",
+  "favoriteColor": "Brown",
+  "birthday": "1/31/83"
+},{
+  "_id": {
+    "$oid": "63b87d16480b9cffa0b5156d"
+  },
+  "firstName": "Bill",
+  "lastName": "Anderson",
+  "email": "banderson@test.com",
+  "favoriteColor": "Red",
+  "birthday": "05/17/11"
+},{
+  "_id": {
+    "$oid": "63b87d16480b9cffa0b5156e"
+  },
+  "firstName": "Sally",
+  "lastName": "Ride",
+  "email": "sride@test.com",
+  "favoriteColor": "Orange",
+  "birthday": "01/01/86"
+}]
